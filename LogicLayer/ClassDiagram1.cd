@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LogicLayer.Catalogos.Catalogo">
+    <Position X="7" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>IICAEACABQAAiYJAAQAIUACAICAQBBAEgGJABAAIIJA=</HashCode>
+      <FileName>Catalogos\Catalogo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLayer.Categoria.Categoria">
+    <Position X="12.5" Y="12.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AIACAEABAQAACIAAAQAAAAAASWAQBAABAQBAAAAAAgA=</HashCode>
+      <FileName>Categoria\Categoria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLayer.Cuenta.Cuenta">
+    <Position X="9.75" Y="6.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>QoQCAEABAQAACMAIARAEAAQBQeAQAEAAAABgAEAAAgA=</HashCode>
+      <FileName>Cuenta\Cuenta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLayer.Factura.Factura">
+    <Position X="0.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>YaCgAOIAAQDIDrAMo5SIUEAKUCBFBugggGRwAQACFIE=</HashCode>
+      <FileName>Factura\Factura.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLayer.Grafica.Grafica">
+    <Position X="9.75" Y="14" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AACBAAAABQBAKAAAAAAAAAAQAAIIAAAAAABAAAAAIAA=</HashCode>
+      <FileName>Grafica\Grafica.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmailService">
+    <Position X="18" Y="10.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAQAAEAAAAIIBAAAAAAAIAAAAAABAAQAAAQA=</HashCode>
+      <FileName>Helper\EmailService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLayer.Helper.JWTHelper">
+    <Position X="18" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper\JWTHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLayer.IMG">
+    <Position X="18" Y="6.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAIACAAAAAAAgAgAAAAABBAAAAAAAAQIAAA=</HashCode>
+      <FileName>Logica\IMG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLayer.Logica.Metodos">
+    <Position X="18" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAQAABIABAAAAACAIQgAAAAAAAAAABAA=</HashCode>
+      <FileName>Logica\Metodos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLayer.Marca.Marca">
+    <Position X="15.25" Y="7" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AIAAAEAIIQAACKAAAQAAAAABYCAABRAABABAQAAAIBA=</HashCode>
+      <FileName>Marca\Marca.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLayer.Persona.Persona">
+    <Position X="4" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>YuiEAUwQgQAGT+FIAwEocFQJgGEQLMQBYUhQAATDMaA=</HashCode>
+      <FileName>Persona\Persona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLayer.Productos.Productos">
+    <Position X="7" Y="9.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AIAAAEAACQAgCIAohQAAEAABYCBABAQhAMBCAEACwhA=</HashCode>
+      <FileName>Productos\Productos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLayer.Reportes.Reportes">
+    <Position X="15.25" Y="13.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAABAggAQAACACIAAAAAAACAABAAAAAACBAAAAANIA=</HashCode>
+      <FileName>Reportes\Reportes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLayer.Seguridad.LogIn">
+    <Position X="9.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>GgAAQAAggQAAAAABgBAACFAAQAAAAAAAAUBAAASAAAE=</HashCode>
+      <FileName>Seguridad\LogIn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLayer.SerieFactura.SerieFactura">
+    <Position X="12.5" Y="6.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AIAgQEMAAQAACIAAAQAAAAAQQCEABCACAABgAABAIAA=</HashCode>
+      <FileName>SerieFactura\SerieFactura.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLayer.Servicios.Servicios">
+    <Position X="12.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>IIAAAEACAQAACJAAAQAAIAAJQCAEBEAAACBAAQAAAhA=</HashCode>
+      <FileName>Servicios\Servicios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLayer.Sucursal.Sucursal">
+    <Position X="15.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AIAAAEAAARAoCIAAAQAAUAABQCAQBAACAEFABAAAIgA=</HashCode>
+      <FileName>Sucursal\Sucursal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
